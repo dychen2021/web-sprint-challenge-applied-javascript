@@ -37,7 +37,7 @@
     "type": "git",
     "url": "git+https://github.com/BloomInstituteOfTechnology/web-sprint-challenge-applied-javascript.git"
   },
-  "jest":{
+  "jest": {
     "testEnvironment": "jsdom"
   }
 }
